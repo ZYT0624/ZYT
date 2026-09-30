@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://zouyuntao.netlify.app/sitemap.xml
